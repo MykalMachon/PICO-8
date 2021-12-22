@@ -41,7 +41,7 @@ function player_init()
 	player.dy=0
 	-- physics values
 	player.acc=1
-	player.friction=0.5
+	player.friction=0.6
 	-- inventory
 	player.items={}
 end
