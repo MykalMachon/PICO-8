@@ -1,7 +1,7 @@
-# Pico8 🕹️
-My pico8 game monorepo.
+# PICO-8 🕹️
+My PICO-8 game monorepo.
 
-Since pico-8 games are all stored in *.p8.png files, I figured it would be nice to keep all my projects in the same place. 
+Since PICO-8 games are all stored in *.p8.png files, I figured it would be nice to keep all my projects in the same place. 
 
 ## Folder Structure
 ```
